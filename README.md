@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asim Arslan
 
-### Senior Engineering Manager @ [Hazelcast](https://hazelcast.com)
+### Senior Engineering Manager
 
 - Distributed Systems
 - NoSql, BigData
